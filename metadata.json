@@ -1,0 +1,7 @@
+{
+  "name": "Singapore HDB Resale Explorer",
+  "description": "Interactive Singapore HDB resale transacted prices map, search, and analytics powered by official Data.gov.sg live API and SLA OneMap Geocoding & Map data.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
